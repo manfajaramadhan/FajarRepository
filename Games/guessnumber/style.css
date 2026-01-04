@@ -1,0 +1,63 @@
+body {
+    background: url('assets/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100vh;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.p1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.icon{
+    color: yellowgreen;
+    font-size: 100px;
+}
+
+.hdrcontainer{
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 50px;
+}
+
+.hdrcontainer2{
+    background-color: white; 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    padding: 10px;
+    margin-top: 10%;
+    display: none;
+}
+
+#hdrjudul{
+    text-align: center; 
+    font-family: Maven Pro; 
+    font-size: 22px; 
+    color: #02435F;
+}
+
+.midcontainer{
+    background-color: rgba(255, 166, 0, 0.61); 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold; 
+    color: #02435F; font-size: 18px; 
+    display: flex;
+    justify-content: center;
+}
