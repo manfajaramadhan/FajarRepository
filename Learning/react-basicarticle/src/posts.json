@@ -1,0 +1,32 @@
+[
+    {
+        "title": "FC Barcelona",
+        "players": [
+            "Lamine Yamal",
+            "Pedri",
+            "Rapinha"
+        ],
+        "date": "2025-06-15",
+        "isNew": true
+    },
+    {
+        "title": "Real Madrid",
+        "players": [
+            "Mbappe",
+            "Courtois",
+            "Vinicius Jr"
+        ],
+        "date": "2025-08-15",
+        "isNew": false
+    },
+    {
+        "title": "Atletico Madrid",
+        "players": [
+            "Jan Oblak",
+            "Alvarez",
+            "Griezmann"
+        ],
+        "date": "2025-10-15",
+        "isNew": false
+    }
+]
